@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: HP
+Build-Jdk: 18.0.1.1
+Implementation-Title: user-management
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.rest.springboot
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/user-management
+Created-By: Maven Integration for Eclipse
+
